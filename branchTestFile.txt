@@ -1,3 +1,5 @@
 this text file is in the branch file
 
 this line a conflicting in the conflicting branch
+
+this is another line made in the conflicting branch
